@@ -29,7 +29,7 @@ module.exports = {
     plugin(function ({ addBase }) {
       addBase({
         html: { fontSize: '13px' },
-        'tailwindCSS.rootFontSize': 13,
+        'tailwindCSS.rootFontSize':13,
       });
     }),
   ],
